@@ -1,0 +1,1 @@
+Here is an insurance denial letter, identifiers removed. Tell me the stated reason, the clinical criteria it cites if any, the deadline to appeal, and where it says I can request the claim file and the reviewer's credentials. Then draft the letter requesting the file, the criteria, and the reviewer's name and specialty. Do not draft the appeal itself yet.

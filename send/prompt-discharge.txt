@@ -1,0 +1,1 @@
+Here is a hospital discharge summary, identifiers removed. List every medication it says I should take, with dose and timing, and every medication it says to stop. List every follow-up appointment and test, with who is supposed to arrange it. List the warning signs it says should bring me back. Tell me anything in it that is unclear or contradictory.

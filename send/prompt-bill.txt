@@ -1,0 +1,1 @@
+Here is a medical billing statement with my identifying details removed. Explain each line in plain English: what the service was, what was charged, what the insurer allowed, what I'm being asked to pay and why. Flag any line that looks duplicated, any code that doesn't match a described service, and anything I should ask the billing office about. Do not tell me whether to pay.

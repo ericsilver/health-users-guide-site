@@ -1,0 +1,1 @@
+For [procedure] on [date] at [facility]: please give me the CPT codes you'll bill, and tell me whether the stay will be inpatient or outpatient. Please confirm that the prior authorization has been approved, with its reference number. And please give me the names of the anesthesia group, any assistant surgeon, the pathology lab, and the supplier of any equipment I'll take home.
