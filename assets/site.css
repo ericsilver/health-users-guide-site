@@ -47,3 +47,13 @@ textarea.msg { min-height:11rem; }
 .status.ok { color:#1e6b52; } .status.err { color:#a33; }
 footer.site { margin-top:3.5rem; padding-top:1rem; border-top:1px solid var(--rule); color:var(--muted);
               font:.82rem/1.5 system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif; }
+
+/* Amazon links look like Amazon's own Buy Now button. The same values are on marriagecontract.org. */
+.btn--amazon { display:inline-block; background:#FFA41C; border:1px solid #FF8F00; border-radius:100px; color:#0F1111; font:400 .95rem/1 "Amazon Ember", Arial, sans-serif; padding:.6rem 1.4rem; box-shadow:0 2px 5px 0 rgba(213,217,217,.5); text-decoration:none; text-align:center; }
+.btn--amazon:hover { background:#FA8900; border-color:#E3931E; color:#0F1111; }
+.btn--amazon:active { background:#FF8F00; box-shadow:none; }
+.buyline .btn--amazon, .buy .btn--amazon { margin:.2rem .35rem .2rem 0; vertical-align:middle; }
+.buynote { white-space:nowrap; }
+/* the smaller version in the tab row */
+nav.site a.btn--amazon { margin:.35rem 1rem 0 0; padding:.4rem 1rem; border:1px solid #FF8F00; font:400 .85rem/1 "Amazon Ember", Arial, sans-serif; color:#0F1111; }
+nav.site a.btn--amazon:hover { border-color:#E3931E; color:#0F1111; }
