@@ -1,0 +1,17 @@
+Subject: Appeal of denial [reference number]
+
+I'm appealing your [date] denial, reference [number], of [service] for [patient].
+
+How the chart meets your criteria:
+
+- Criterion: "[quote it]." Met by: [chart entry, date, page].
+- Criterion: "[quote it]." Met by: [chart entry, date, page].
+
+Attached is a letter of medical necessity from my physician.
+
+Please have this reviewed by a physician who practices in [specialty]. If you haven't already sent me the full claim file and the criteria you relied on, send them now.
+
+[Keep this paragraph only if it's urgent:] Waiting for a standard review would seriously jeopardize my health, so I'm asking for an expedited decision.
+
+[Name]
+[Member ID]

@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Write to me | Health: A User’s Guide</title>
+<meta name="description" content="Send the author a message, anonymously if you like.">
+<meta name="robots" content="noindex">
+<script>document.documentElement.classList.add('js');</script>
+<link rel="stylesheet" href="page.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<p class="notice"><a href="reviewers.html"><strong>This book is looking for reviewers.</strong> <span>Free copies may be available.</span></a></p>
+<nav class="bar on-navy" aria-label="Site">
+  <div class="container bar__in">
+    <a class="wordmark" href="index.html">Health: A User’s Guide <span>2027</span></a>
+    <div class="bar__right">
+      <ul class="bar__links"><li><a href="cartoons/index.html">Cartoons</a></li><li><a href="downloads.html">Downloads</a></li><li><a href="send.html">Ready to send</a></li><li><a href="prompts.html">Prompts</a></li><li><a href="states.html">Who to call</a></li><li><a href="contact.html" aria-current="page">Write to me</a></li></ul>
+      <details class="bar__menu">
+        <summary><span class="when-closed">Menu</span><span class="when-open">Close</span></summary>
+        <ul><li><a href="cartoons/index.html">Cartoons</a></li><li><a href="downloads.html">Downloads</a></li><li><a href="send.html">Ready to send</a></li><li><a href="prompts.html">Prompts</a></li><li><a href="states.html">Who to call</a></li><li><a href="contact.html" aria-current="page">Write to me</a></li></ul>
+      </details>
+      <a class="btn--amazon btn--amazon-sm" href="https://www.amazon.com/dp/B0HLMX4BZQ" rel="noopener">Buy<span class="bar__long"> on Amazon</span></a>
+    </div>
+  </div>
+</nav>
+<main id="main">
+<header class="page-head on-navy"><div class="fine" aria-hidden="true"></div><div class="container page-head__in"><div class="page-head__text"><h1>Write to me</h1></div></div></header><div class="container page-grid"><div class="page-body"><p>Anything sent here reaches me. You don’t have to say who you are. If you’d like a reply, leave a way to reach you.</p>
+<p>Corrections are the most useful thing you can send. Please don’t send the details of your own medical situation. I’m not a clinician or a lawyer, I can’t advise you, and this form isn’t confidential the way a doctor’s office is. If it’s an emergency, call 911; if it’s a crisis, call or text 988.</p>
+<form id="f" action="https://api.web3forms.com/submit" method="POST" accept-charset="UTF-8">
+  <input type="hidden" name="access_key" value="12847e88-1cea-4cd3-9882-7a3bc6433a07">
+  <input type="hidden" name="subject" value="healthusersguide.com: a message">
+  <input type="hidden" name="from_name" value="healthusersguide.com contact form">
+  <input type="checkbox" name="botcheck" class="hp" tabindex="-1" autocomplete="off">
+  <label for="msg">Message</label>
+  <textarea class="msg" id="msg" name="message" required></textarea>
+  <label for="reply">How to reach you (optional)</label>
+  <input type="text" id="reply" name="reply_to_optional" autocomplete="off" placeholder="an email address, a name, or nothing">
+  <p><button type="submit" id="send">Send</button></p>
+  <p class="status" id="status" aria-live="polite"></p>
+</form>
+<p class="fine-note">Messages travel through a form relay to my inbox. The relay sees the text you type and your connection details. I see only the text.</p>
+<figure class="cartoon"><a href="cartoons/ch10-fax.html"><img src="img/cartoons/ch10-fax-sm.png" width="640" height="561" loading="lazy" alt="A man feeds paper into an old fax machine under a 2027 calendar, with a smartphone lying on the desk."></a><figcaption>“It’s going through. It’s been going through since Tuesday.”</figcaption></figure></div><aside class="page-aside" aria-label="The book"><a href="index.html"><img src="img/cover.jpg" width="760" height="937" loading="lazy" alt="Cover of Health: A User's Guide by Eric Silver"></a><a class="btn--amazon" href="https://www.amazon.com/dp/B0HLMX4BZQ" rel="noopener">Buy it on Amazon</a><p class="fine-note">Kindle and paperback. Free to read with Kindle Unlimited.</p></aside></div>
+</main>
+<footer class="close on-navy">
+  <div class="fine" aria-hidden="true"></div>
+  <div class="container">
+    <p class="close__letter">This site and the book are general information about how health care works, not medical or legal advice. Neither has been reviewed by a clinician or a lawyer. Don’t let anything here delay care in an emergency.</p>
+    <ul class="close__links">
+      <li><a href="corrections.html">Corrections</a></li>
+      <li><a href="contact.html">Write to me</a></li>
+      <li><a href="reviewers.html">Reviewers</a></li>
+      <li><a href="https://aporia.institute/ai/">How AI was used</a></li>
+      <li><a href="https://marriagecontract.org/">The Marriage Contract, 2027, by the same author</a></li>
+      <li><a href="https://aporia.institute/">aporia.institute</a></li>
+    </ul>
+    <p class="close__legal">&copy; 2026 Eric Silver</p>
+  </div>
+</footer>
+<script>
+document.querySelectorAll('.bar__menu a').forEach(function (a) { a.addEventListener('click', function () { a.closest('details').open = false; }); });
+(function () {
+  var bar = document.querySelector('.bar'), last = window.scrollY;
+  window.addEventListener('scroll', function () {
+    var y = window.scrollY;
+    if (bar.querySelector('details[open]')) return;
+    bar.classList.toggle('is-tucked', y > last && y > 240);
+    last = y;
+  }, { passive: true });
+  document.addEventListener('focusin', function (e) { if (bar.contains(e.target)) bar.classList.remove('is-tucked'); });
+})();
+</script>
+<script>
+(function () {
+  var f = document.getElementById('f'), st = document.getElementById('status'), btn = document.getElementById('send');
+  f.addEventListener('submit', function (e) {
+    e.preventDefault();
+    btn.disabled = true; st.className = 'status'; st.textContent = 'Sending…';
+    var data = {};
+    new FormData(f).forEach(function (v, k) { data[k] = v; });
+    fetch(f.action, { method: 'POST', body: JSON.stringify(data),
+      headers: { 'Content-Type': 'application/json', Accept: 'application/json' } })
+      .then(function (r) { return r.json(); })
+      .then(function (j) {
+        if (j.success) { st.className = 'status ok'; st.textContent = 'Sent. Thank you.'; f.reset(); }
+        else { throw new Error(j.message || 'error'); }
+      })
+      .catch(function () { st.className = 'status err'; st.textContent = 'That didn’t go through. Please try again in a minute.'; })
+      .finally(function () { btn.disabled = false; });
+  });
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+Subject: Account [number]: itemized statement requested
+
+To patient financial services:
+
+I've received a bill for my care on [date]. Before any payment, I need to see the detail behind the totals, so please send me:
+
+1. An itemized statement showing, for each charge, the CPT or HCPCS code, the revenue code, the quantity and the price.
+2. Your financial assistance policy and its application form.
+
+While I review these, please keep this account out of collections.
+
+[Name]
+[Account number]

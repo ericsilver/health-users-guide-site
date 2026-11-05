@@ -1,0 +1,12 @@
+Subject: Network gap exception request, [specialty]
+
+This is a network gap exception request. For [specialty], your access standard is [X miles / X business days], and I can't get care within it.
+
+From [date] to [date] I called [number] of the in-network [specialty] providers in your directory. None of them could see me within the standard. The attached log gives each call's date, phone number and answer.
+
+[Name, credentials, address] can treat me and is willing to bill the plan. I'm asking you to approve out-of-network care with this provider, at my in-network cost sharing, and to confirm it in writing by [date].
+
+Copy: [state insurance department / U.S. Department of Labor]
+
+[Name]
+[Member ID]

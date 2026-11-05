@@ -1,0 +1,8 @@
+Dr. [name] practices [specialty] in [city and state] and has recommended [the drug, device, test or operation], to take place at [the facility, lab or center]. Look through public sources and give me a link for each thing you report. Check four places:
+
+1. Open Payments, the federal database (openpaymentsdata.cms.gov): what this doctor has been paid by [the device's or drug's maker] and its competitors, listed by year and type (research, royalties, consulting, speaking, travel, meals), plus any investment or ownership interest the companies disclosed.
+2. Patents listing this doctor as an inventor.
+3. Ownership: whether the doctor or practice has a stake in [the facility], a lab, an imaging center, a surgery center or a physician-owned hospital. Try the facility's website, state business registries and Medicare's published ownership data.
+4. Conflict-of-interest disclosures in the doctor's articles, talks or trial registrations on this treatment.
+
+"No record found" and "no interest" are different things, so keep them separate. Stick to what the sources say, and don't draw conclusions about the doctor.

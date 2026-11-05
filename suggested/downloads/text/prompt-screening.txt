@@ -1,0 +1,5 @@
+Our household: I'm [age], [sex]. My children are [ages and sexes].
+
+Using the U.S. Preventive Services Task Force's A and B recommendations and the CDC's adult and child immunization schedules, list the screenings and vaccines that fit each person, and how often. Skip C, D and I grades, along with anything that depends on a risk factor I haven't mentioned; put those in a separate list of questions for our doctor.
+
+Add each item to the calendar at its interval, and mark which ones count as no-cost preventive care.

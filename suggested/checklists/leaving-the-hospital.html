@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Checklist: Before you leave the hospital | Health: A User’s Guide</title>
+<meta name="description" content="A one-page checklist: Before you leave the hospital.">
+<meta name="robots" content="noindex">
+<script>document.documentElement.classList.add('js');</script>
+<link rel="stylesheet" href="../page.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<p class="notice"><a href="../reviewers.html"><strong>This book is looking for reviewers.</strong> <span>Free copies may be available.</span></a></p>
+<nav class="bar on-navy" aria-label="Site">
+  <div class="container bar__in">
+    <a class="wordmark" href="../index.html">Health: A User’s Guide <span>2027</span></a>
+    <div class="bar__right">
+      <ul class="bar__links"><li><a href="../cartoons/index.html">Cartoons</a></li><li><a href="../downloads.html" aria-current="page">Downloads</a></li><li><a href="../send.html">Ready to send</a></li><li><a href="../prompts.html">Prompts</a></li><li><a href="../states.html">Who to call</a></li><li><a href="../contact.html">Write to me</a></li></ul>
+      <details class="bar__menu">
+        <summary><span class="when-closed">Menu</span><span class="when-open">Close</span></summary>
+        <ul><li><a href="../cartoons/index.html">Cartoons</a></li><li><a href="../downloads.html" aria-current="page">Downloads</a></li><li><a href="../send.html">Ready to send</a></li><li><a href="../prompts.html">Prompts</a></li><li><a href="../states.html">Who to call</a></li><li><a href="../contact.html">Write to me</a></li></ul>
+      </details>
+      <a class="btn--amazon btn--amazon-sm" href="https://www.amazon.com/dp/B0HLMX4BZQ" rel="noopener">Buy<span class="bar__long"> on Amazon</span></a>
+    </div>
+  </div>
+</nav>
+<main id="main">
+<header class="page-head on-navy"><div class="fine" aria-hidden="true"></div><div class="container page-head__in"><div class="page-head__text"><h1>Before you leave the hospital</h1><p class="sub">A checklist to print</p></div></div></header><div class="container page-grid"><div class="page-body"><div class="sheet">
+<p class="sheet__lead">Leave with your prescriptions, a care plan, and the name and number of someone to call.</p>
+<ol class="sheet__steps"><li><span class="sheet__box" aria-hidden="true"></span><span>Make four lists from the discharge summary: medicines to take, with dose and timing; medicines to stop; follow-up visits and tests, with who sets up each one; and the warning signs that mean coming back. <a class="sheet__file" href="../downloads/text/prompt-discharge.txt" download>prompt-discharge.txt</a></span></li><li><span class="sheet__box" aria-hidden="true"></span><span>If anything on those lists is unclear or contradicts something else you were told, ask before you go.</span></li><li><span class="sheet__box" aria-hidden="true"></span><span>Medicare inpatient, and sure it’s too soon? Call the quality-improvement organization listed on your Important Message from Medicare, on the day of discharge at the latest. A phone request counts. Then confirm it in writing. <a class="sheet__file" href="../downloads/text/discharge-appeal.txt" download>discharge-appeal.txt</a></span></li><li><span class="sheet__box" aria-hidden="true"></span><span>If you ask for that review in time, you owe nothing for the extra days while it’s pending, apart from your usual cost sharing.</span></li><li><span class="sheet__box" aria-hidden="true"></span><span>Once you’re home, message your primary-care doctor through the portal about the stay, and ask whether they need to see you. <a class="sheet__file" href="../downloads/text/prompt-primary-care.txt" download>prompt-primary-care.txt</a></span></li><li><span class="sheet__box" aria-hidden="true"></span><span>Ask for your records: the discharge summary now, and the full chart, which the hospital has thirty days to send. <a class="sheet__file" href="../downloads/text/records.txt" download>records.txt</a></span></li><li><span class="sheet__box" aria-hidden="true"></span><span>When the bill for the stay arrives, start with the checklist Before you pay a hospital bill.</span></li></ol>
+<p class="sheet__foot">General information about how health care works, not medical or legal advice. Nothing here should delay care in an emergency. The letters named here are free at healthusersguide.com.</p>
+</div>
+<p class="tools print-hide"><button type="button" class="js-only" onclick="window.print()">Print it</button><a class="btn" href="../downloads/leaving-the-hospital.pdf" download>Download the PDF</a><a href="../downloads.html">All downloads</a></p></div><aside class="page-aside" aria-label="The book"><a href="../index.html"><img src="../img/cover.jpg" width="760" height="937" loading="lazy" alt="Cover of Health: A User's Guide by Eric Silver"></a><a class="btn--amazon" href="https://www.amazon.com/dp/B0HLMX4BZQ" rel="noopener">Buy it on Amazon</a><p class="fine-note">Kindle and paperback. Free to read with Kindle Unlimited.</p></aside></div>
+</main>
+<footer class="close on-navy">
+  <div class="fine" aria-hidden="true"></div>
+  <div class="container">
+    <p class="close__letter">This site and the book are general information about how health care works, not medical or legal advice. Neither has been reviewed by a clinician or a lawyer. Don’t let anything here delay care in an emergency.</p>
+    <ul class="close__links">
+      <li><a href="../corrections.html">Corrections</a></li>
+      <li><a href="../contact.html">Write to me</a></li>
+      <li><a href="../reviewers.html">Reviewers</a></li>
+      <li><a href="https://aporia.institute/ai/">How AI was used</a></li>
+      <li><a href="https://marriagecontract.org/">The Marriage Contract, 2027, by the same author</a></li>
+      <li><a href="https://aporia.institute/">aporia.institute</a></li>
+    </ul>
+    <p class="close__legal">&copy; 2026 Eric Silver</p>
+  </div>
+</footer>
+<script>
+document.querySelectorAll('.bar__menu a').forEach(function (a) { a.addEventListener('click', function () { a.closest('details').open = false; }); });
+(function () {
+  var bar = document.querySelector('.bar'), last = window.scrollY;
+  window.addEventListener('scroll', function () {
+    var y = window.scrollY;
+    if (bar.querySelector('details[open]')) return;
+    bar.classList.toggle('is-tucked', y > last && y > 240);
+    last = y;
+  }, { passive: true });
+  document.addEventListener('focusin', function (e) { if (bar.contains(e.target)) bar.classList.remove('is-tucked'); });
+})();
+</script>
+</body>
+</html>

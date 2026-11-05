@@ -1,0 +1,23 @@
+Subject: Network and cost check for a procedure on [date]
+
+I'm having a planned procedure on [date]. Please answer the following in writing.
+
+Network: on that date, is each of these in network for my plan?
+
+[Surgeon]
+[Facility]
+[Anesthesia group]
+[Assistant surgeon]
+[Lab]
+[Equipment supplier]
+
+Cost:
+
+- How much is left on my deductible and out-of-pocket maximum this year?
+- What's my coinsurance?
+- At [facility], what's the allowed amount for each of these codes: [codes]?
+
+[If you called first: the reference number for that call.]
+
+[Name]
+[Member ID]

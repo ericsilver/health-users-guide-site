@@ -1,0 +1,12 @@
+Subject: Formulary exception request, [drug]
+
+Please grant an exception and cover [drug, dose] [even though it isn't on your formulary / at a lower tier / without step therapy].
+
+The attached statement from my prescriber explains why: the alternatives on your formulary [were tried and didn't work / would be less effective for me / would cause adverse effects].
+
+I'd like your decision in writing.
+
+[Keep this paragraph only if it's urgent:] A wait could seriously jeopardize my health, so please decide this on an expedited basis.
+
+[Name]
+[Member ID]

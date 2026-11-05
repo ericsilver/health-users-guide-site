@@ -1,0 +1,18 @@
+Here's my household:
+- Me: born [month, year]
+- Children: born [month, year] and [month, year]
+- Coverage: [employer plan / marketplace plan / Medicaid / Medicare]
+- Plan year starts: [month]
+
+Add to my calendar, with a reminder one month ahead, each date on which our coverage is likely to change:
+- every open-enrollment window
+- the reset date for the deductible and out-of-pocket maximum
+- each child's 26th birthday, plus the 60 days after it for enrolling in other coverage
+- around age 12 or 13, what changes about my access to that child's patient portal
+- at 18, the forms each child should sign
+- my Medicare initial enrollment period, which starts three months before the month I turn 65
+- if I have a health savings account, when to stop contributing before I enroll in Medicare
+- the six months from my Part B start date, during which a supplement plan has to accept me
+- Medicare open enrollment each fall
+
+Then tell me which dates rest on assumptions and which I should confirm.
