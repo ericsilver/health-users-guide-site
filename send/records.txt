@@ -1,1 +1,19 @@
-I am requesting copies of my health information under 45 C.F.R. § 164.524: [all visit notes, results, imaging reports and images, operative and pathology reports, and billing records from (date) to (date)]. Please provide them in [electronic format / through the portal / on a disc], within thirty days. If there is a fee, please tell me the amount before preparing the copies. [Name, date of birth, address, phone.]
+Subject: Request for my medical records (HIPAA right of access)
+
+To the records office:
+
+Under 45 C.F.R. § 164.524, the HIPAA right of access, please send me all of the following for [start date] through [end date]:
+
+- visit notes and test results
+- imaging reports and the images themselves
+- operative and pathology reports
+- billing records
+
+Format I'd like: [electronic file / patient portal / disc].
+
+Please get me the copies within the thirty days the rule allows. If you charge for copies, tell me the fee before you make them.
+
+[Name]
+[Date of birth]
+[Address]
+[Phone]

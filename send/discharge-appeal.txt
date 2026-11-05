@@ -1,1 +1,12 @@
-This confirms that on [date] at [time] I asked [quality-improvement organization] to review my discharge from [hospital], planned for [date], under 42 C.F.R. § 405.1206, before leaving the hospital. My reference number is [number]. I understand I may not be charged for the days while the review is pending, other than my usual cost sharing. [Copy to the hospital's case manager.]
+Subject: Confirming my request for discharge review, reference [number]
+
+I'm writing to put on record that I contacted [quality-improvement organization] on [date] at [time] and asked for a review of my planned discharge from [hospital] on [date]. I made the request while still a patient there, under 42 C.F.R. § 405.1206.
+
+The reference number is [number].
+
+As I understand it, I can't be billed for the days the review is pending, apart from my usual cost sharing.
+
+Copy: [hospital] case manager
+
+[Name]
+[Phone]

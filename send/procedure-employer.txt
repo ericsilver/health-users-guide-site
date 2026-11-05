@@ -1,1 +1,9 @@
-I'm planning [procedure] in [month]. Does our plan include a centre-of-excellence or travel-surgery benefit, a bundled-price programme, or a case manager for planned surgery? If it does, please send me the programme's terms: which hospitals, what cost sharing I'd pay, what travel is covered for me and a companion, and how follow-up care and complications are handled after I return. If it doesn't, please tell me whether our plan is self-funded, and whether the plan will consider a single-case agreement with [facility] at [price].
+Subject: Benefits question before planned surgery
+
+I'm planning [procedure] in [month]. Before I talk to the hospital about cost, I have a question about our plan: does it offer a bundled-price program, a travel-surgery or center-of-excellence benefit, or case management for planned surgery?
+
+If so, please send the terms: which hospitals, what I'd pay, what travel it covers for me and a companion, and how it handles follow-up care and complications once I'm home.
+
+If not, is our plan self-funded? And at [price], would the plan consider a single-case agreement with [facility]?
+
+[Name]

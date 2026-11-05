@@ -1,1 +1,13 @@
-I request independent external review of the final internal denial dated [date], reference [number], under [my state's / the federal] external review process. The denial concerns [medical necessity / an experimental-treatment determination / a rescission]. Enclosed are the denial letters, my appeal, and the supporting medical records. [If urgent:] I request expedited review because delay would seriously jeopardize my health.
+Subject: Request for independent external review, reference [number]
+
+My plan upheld its denial in a final internal decision dated [date], reference [number]. I'm asking for an independent reviewer to look at it, through [my state's / the federal] external review process.
+
+What the denial turned on: [medical necessity / treatment called experimental / rescission of my coverage].
+
+Attached: the denial letters, my appeal, and the medical records that support it.
+
+[Keep this paragraph only if it's urgent:] I need an expedited review. A delay would seriously jeopardize my health.
+
+[Name]
+[Member ID]
+[Plan name]

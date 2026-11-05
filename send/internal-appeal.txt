@@ -1,1 +1,17 @@
-This is a formal appeal of the denial dated [date], reference [number], for [service] for [patient]. The plan's criterion [quote the criterion] is met by [chart entry, date, page], and [next criterion] by [entry]. My physician's letter of medical necessity is enclosed. I request review by a physician in [specialty]. [If urgent:] Because delay would seriously jeopardize my health, I request expedited review. Please send me the complete claim file and the criteria relied on if you have not already done so.
+Subject: Appeal of denial [reference number]
+
+I'm appealing your [date] denial, reference [number], of [service] for [patient].
+
+How the chart meets your criteria:
+
+- Criterion: "[quote it]." Met by: [chart entry, date, page].
+- Criterion: "[quote it]." Met by: [chart entry, date, page].
+
+Attached is a letter of medical necessity from my physician.
+
+Please have this reviewed by a physician who practices in [specialty]. If you haven't already sent me the full claim file and the criteria you relied on, send them now.
+
+[Keep this paragraph only if it's urgent:] Waiting for a standard review would seriously jeopardize my health, so I'm asking for an expedited decision.
+
+[Name]
+[Member ID]

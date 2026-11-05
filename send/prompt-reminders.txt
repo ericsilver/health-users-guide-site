@@ -1,1 +1,5 @@
-Set these reminders, recurring. Every January: download my records and results from each patient portal, and update my one-page health file. Every month: check the explanations of benefits against any bills, and don't pay a bill until its explanation of benefits has arrived. Before each open enrollment: check that my doctors and hospital are in next year's network, price my prescriptions three ways, and look up the financial-assistance policy of the hospital I'd use. Every year on my birthday: confirm my health-care proxy and authorization forms are current, and that my proxy knows where they are. Each time you set one, add a one-line note saying why it matters.
+Create these recurring reminders, each with a one-line note on why it matters:
+- January: pull records and results from each portal, then refresh my one-page health file.
+- Monthly: match explanations of benefits against bills. No bill gets paid before its explanation of benefits shows up.
+- Before open enrollment: confirm that next year's network includes my doctors and hospital, price my prescriptions three ways, and find out the financial-assistance policy at the hospital I'd use.
+- My birthday: confirm that the authorization forms and my health-care proxy are up to date, and that my proxy knows where to find them.

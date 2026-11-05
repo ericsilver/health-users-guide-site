@@ -1,1 +1,11 @@
-For [procedure] on [date] at [facility]: please give me the CPT codes you'll bill, and tell me whether the stay will be inpatient or outpatient. Please confirm that the prior authorization has been approved, with its reference number. And please give me the names of the anesthesia group, any assistant surgeon, the pathology lab, and the supplier of any equipment I'll take home.
+Subject: Questions before my [procedure] on [date]
+
+I'm scheduled for [procedure] on [date] at [facility]. Before then, I need to know:
+
+1. Which CPT codes will you bill?
+2. Will I be an inpatient or an outpatient?
+3. Has prior authorization been approved? What's the reference number?
+4. Who else will bill me? Please name any assistant surgeon, the anesthesia group, the pathology lab, and whoever supplies equipment I'll take home.
+
+[Name]
+[Date of birth]

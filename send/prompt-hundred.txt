@@ -1,1 +1,15 @@
-I've been offered [the test, scan or operation] because of [the diagnosis, its stage or grade, or the reason it was offered]. I'm [age and sex], with [other conditions, earlier results, family history]. Using the best published figures, picture two groups of 100 people who match me as closely as the evidence allows: one group has it and one doesn't. Show them side by side in a table, one row per outcome, over [five or ten] years: how many are helped and how; how many die of this condition; how many die of anything; how many get a false alarm; how many are treated for something that would never have harmed them; and how many have each common complication or side effect. If a positive result leads to a further test or treatment, add a column for that next step. Then add rows for what each path involves: the preparation, the pain, the recovery time, the time off work, and my likely cost under a [plan type] with a [deductible] deductible and a [maximum] out-of-pocket maximum. For every figure, name the study or guideline, its year, and the people it studied, and say how closely they match me. Where there's no good figure, say so rather than estimate. Don't tell me what to choose. End with the questions I should ask my doctor to fill the gaps.
+The offer: [test, scan or operation]. The reason for it: [diagnosis, stage or grade, or why it came up]. About me: [age and sex], [other conditions, earlier results, family history].
+
+Use the best published numbers to compare two groups of 100 people as much like me as the evidence allows. One group gets it and the other doesn't. Make a side-by-side table with the outcomes in rows, over [five or ten] years:
+- helped, and how
+- dead of this condition
+- dead of any cause
+- false alarms
+- treated for something that wouldn't have hurt them
+- each common side effect or complication
+
+If a positive result would lead to another test or treatment, give that next step its own column.
+
+Also show what each path takes: preparation, pain, recovery time, time off work, and my likely cost on a [plan type] plan ([deductible] deductible, [maximum] out-of-pocket maximum).
+
+For each number, give the study or guideline, its year and who was studied, and say how closely those people match me. If no good number exists, say that instead of estimating. Don't recommend a choice. Finish with questions for my doctor that would fill the gaps.

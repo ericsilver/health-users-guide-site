@@ -1,1 +1,11 @@
-I received a good-faith estimate from you dated [date] of $[amount] for [service]. Your bill dated [date] is $[amount], which is more than $400 above the estimate. Please explain the difference and adjust the bill to the estimate. If we cannot resolve it, I intend to start patient-provider dispute resolution under the No Surprises Act within 120 days of the bill.
+Subject: Bill exceeds good-faith estimate by more than $400
+
+Good-faith estimate you gave me: $[amount], dated [date], for [service].
+Bill you sent me: $[amount], dated [date].
+
+The difference is over $400. Please tell me why, and correct the bill to match the estimate.
+
+If this isn't settled, I'll use the No Surprises Act's patient-provider dispute resolution process, which I can start up to 120 days after the date of the bill.
+
+[Name]
+[Account number]
