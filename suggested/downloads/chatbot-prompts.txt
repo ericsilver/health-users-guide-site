@@ -10,46 +10,21 @@ SET UP A CHATBOT AS THE ORGANIZER OF YOUR CARE
 When: Once, then again whenever something changes.
 Paste into: a chatbot with access to your email and calendar. It'll need your real details, so read the service's privacy and training settings first. It writes the drafts; you do the sending.
 
-You're going to help me get my health care organized. Take the seven jobs below one at a time, in order.
+Act as the organiser of my health care. Work through the seven steps below in order, one at a time. Ask before you send anything or put anything on my calendar. Never guess a fact about my health: ask me, or mark it [unknown]. You are not my doctor, so don't diagnose, and don't tell me to start, stop or change a treatment. If anything I tell you sounds urgent, tell me to call my doctor or 911 before we go on.
 
-Ground rules:
-- Get my OK before you send anything or add anything to my calendar.
-- Don't guess at any health fact. Ask me, or write [unknown].
-- You aren't my doctor. That means no diagnosing, and no advice to begin, end or alter a treatment.
-- If something I say sounds urgent, stop and send me to my doctor or 911.
+1. Interview me, a few questions at a time, for: each condition and the year it was diagnosed; every medicine and supplement, with dose and who prescribed it; each allergy and what happened; the doctors, dentists, therapists and pharmacies I use, with phone numbers and patient portals; the hospital I'd choose; my insurance (the plan's name and type, who administers it, member ID, plan year, deductible and out-of-pocket maximum, and where the plan documents are); my health-care proxy, and whether I've signed a directive and an authorization; and recent results worth keeping. Then write my one-page health file from the answers.
 
-Job 1: Build my health file. Ask me a few questions at a time until you have:
-- my conditions, with the year each was diagnosed
-- my medicines and supplements, with the dose and prescriber
-- my allergies, and what each one did to me
-- my pharmacies, doctors, dentists and therapists, with their phone numbers and portals
-- the hospital I'd pick
-- my insurance: plan name and type, administrator, member ID, plan year, deductible, out-of-pocket maximum, and the location of the plan documents
-- who my health-care proxy is, and whether I've signed an advance directive and an authorization
-- recent test results worth keeping
-Then turn my answers into a one-page health file.
+2. Put it where I can find it from any phone. Save email drafts to myself, each with a subject line that starts with a tag nobody else uses, and the same tag in the body, so one search finds it: health-info for the health file; rx-info for the medicine list, with dose, prescriber, pharmacy and start date; ins-info for the insurance details and how to reach the plan; care-team for the doctors and portals; and records-log for a running list of every request I've sent and when each answer is due. When something changes, save a new version with the date in the subject rather than editing the old one.
 
-Job 2: Make it findable from any phone. Save each of these as an email draft to myself. Start the subject line with its tag, which nobody else would use, and repeat the tag in the body so one search pulls it up:
-- health-info: the health file
-- rx-info: medicines, with start date, dose, prescriber and pharmacy
-- ins-info: insurance details and the plan's contact information
-- care-team: doctors and portals
-- records-log: a running list of each request I've sent and when its answer is due
-When something changes, don't edit the old draft. Save a new one with the date in the subject.
+3. Get my records. For each doctor and hospital on my list, draft a request for my complete records under the HIPAA right of access, 45 C.F.R. § 164.524, in electronic form, with the answer due within thirty days. Draft one more to my health plan for my claims history for the last [three] years. Show me each draft before anything is sent. Log each in records-log with its due date, and put a follow-up on my calendar for that date.
 
-Job 3: Request my records. Draft a request to every doctor and hospital on my list for my complete records in electronic form, citing 45 C.F.R. § 164.524 (the HIPAA right of access) and its thirty-day deadline. Draft another to my health plan for [three] years of claims history. Show me every draft first. Log each request in records-log along with the date its answer is due, and add a calendar follow-up for that date.
+4. Check my network. From my plan's name and type, tell me where its provider directory is, and write me a short script for calling each doctor's office to confirm that they're in network for my plan this year and taking new patients. Directories are often wrong, so the call is the answer: log it in care-team with the date and the name of the person I spoke to.
 
-Job 4: Check my network. Using my plan's name and type, point me to its provider directory. Then give me a short script for calling each office to ask whether it's in my plan's network this year and accepting new patients. Trust the call over the directory, since directories are often wrong, and record the answer in care-team with the date and who I talked to.
+5. Look for conflicts. If you can search the web, look up each doctor who has recommended a test, device, drug or operation for me in the federal Open Payments database (openpaymentsdata.cms.gov), and report payments by company, year and type, with a link for each. Note any public record that the doctor has a stake in a facility, laboratory or imaging centre they've sent me to. Keep 'no record found' separate from 'no interest,' and draw no conclusion about the doctor.
 
-Job 5: Look for conflicts of interest. If you can search the web, look in Open Payments, the federal database (openpaymentsdata.cms.gov), for each doctor who's proposed a drug, device, test or operation for me. Report any payments by company, type and year, linking to each. Flag any public record showing that a doctor has a stake in a facility, lab or imaging center they've sent me to. "No record found" doesn't mean "no interest," so keep those apart, and don't draw conclusions about the doctor.
+6. Keep it current. Put on my calendar, recurring: every January, download my results from each portal and update health-info; whenever a medicine changes, update rx-info the same day; before each open enrollment, re-check the network for every doctor on care-team and price my prescriptions; and every year on my birthday, confirm that my proxy and directive are current and that my proxy can find health-info. Add a one-line note to each event saying what it's for.
 
-Job 6: Keep it current. Add these to my calendar as recurring events, each with a one-line note on its purpose:
-- every January: pull my results from each portal into health-info
-- any time a medicine changes: update rx-info that day
-- before each open enrollment: recheck the network for everyone on care-team, and price my prescriptions
-- every birthday: confirm the directive and proxy are still current, and that my proxy knows how to find health-info
-
-Job 7: Report back. List what you made, what's still waiting on someone else and its due date, and each assumption I should check.
+7. When you've finished, list what you've made, what's waiting on someone else and when it's due, and every assumption I should check.
 
 ========================================================================
 
@@ -58,7 +33,7 @@ A BILL OR BENEFITS STATEMENT
 When: A bill or benefits statement arrives.
 Paste into: a chatbot, with your identifying details taken out. Remove anything that identifies you first (name, birth date, account numbers, address), then check the answer against the document.
 
-I've removed my identifying details from the medical bill or benefits statement below. Go through it line by line in plain English. For each line, tell me what the service was, the amount charged, the amount my insurer allowed, and the amount left for me and why. Then point out anything that looks like a duplicate, any code that doesn't fit the service described, and questions worth putting to the billing office. Don't advise me on whether to pay.
+Here is a medical billing statement with my identifying details removed. Explain each line in plain English: what the service was, what was charged, what the insurer allowed, what I'm being asked to pay and why. Flag any line that looks duplicated, any code that doesn't match a described service, and anything I should ask the billing office about. Do not tell me whether to pay.
 
 ========================================================================
 
@@ -67,7 +42,7 @@ A DENIAL LETTER
 When: A denial letter arrives.
 Paste into: a chatbot, with your identifying details taken out. Remove anything that identifies you first (name, birth date, account numbers, address), then check the answer against the document.
 
-Below is a denial letter from my insurer, with identifiers taken out. Pull out four things: the reason it gives, any clinical criteria it cites, the appeal deadline, and how to get the reviewer's credentials and the claim file. Next, write a letter asking for the file and the criteria, and for the name and specialty of whoever reviewed it. Hold off on drafting an appeal for now.
+Here is an insurance denial letter, identifiers removed. Tell me the stated reason, the clinical criteria it cites if any, the deadline to appeal, and where it says I can request the claim file and the reviewer's credentials. Then draft the letter requesting the file, the criteria, and the reviewer's name and specialty. Do not draft the appeal itself yet.
 
 ========================================================================
 
@@ -76,7 +51,7 @@ A DISCHARGE SUMMARY
 When: You're handed a discharge summary.
 Paste into: a chatbot, with your identifying details taken out. Remove anything that identifies you first (name, birth date, account numbers, address), then check the answer against the document.
 
-This is my hospital discharge summary, with identifiers taken out. Working only from what the summary itself says, make four complete lists: every medicine to take, with dose and timing; every medicine to stop; every follow-up visit and test, with who's responsible for setting up each; and the warning signs it gives for coming back. Add nothing of your own. Then note anything unclear or contradictory.
+Here is a hospital discharge summary, identifiers removed. List every medication it says I should take, with dose and timing, and every medication it says to stop. List every follow-up appointment and test, with who is supposed to arrange it. List the warning signs it says should bring me back. Tell me anything in it that is unclear or contradictory.
 
 ========================================================================
 
@@ -85,9 +60,7 @@ GET YOUR CLAIMS HISTORY
 When: Once, and again before you see a new doctor or apply for insurance.
 Paste into: a chatbot, with your identifying details taken out. Remove anything that identifies you first (name, birth date, account numbers, address), then check the answer against the document.
 
-Write a letter to my health plan, citing 45 C.F.R. § 164.524 (the HIPAA right of access), that asks for an electronic copy of my full claims history from [date] to today. It should ask for a written response within thirty days, and for these details on each claim: date of service, provider's name and NPI, procedure and diagnosis codes, the amounts billed, allowed and paid, what I owed, and the reason for any denial.
-
-When I paste back the file with identifiers removed, make a table by provider and date, give me a list of all the providers so I can request their records, and point out any diagnosis code I might not recognize.
+Draft a letter to my health plan asking, under the HIPAA right of access, 45 C.F.R. § 164.524, for my complete claims history from [date] to today, in electronic form: for each claim, the date of service, the provider's name and NPI, the diagnosis and procedure codes, the amounts billed, allowed and paid, my share, and any denial with its reason. Ask for the plan's written response within thirty days. When I paste the file back, with identifiers removed, turn it into a table by provider and date, list every provider so I can request their records, and flag any diagnosis code I might not recognise.
 
 ========================================================================
 
@@ -96,11 +69,7 @@ CHECK YOUR RECORD FOR ERRORS
 When: Yearly, and before you apply for long-term-care, life or disability insurance.
 Paste into: a chatbot, with your identifying details taken out. Remove anything that identifies you first (name, birth date, account numbers, address), then check the answer against the document.
 
-I've pasted three things below, with identifiers removed: my problem list, my allergies, and the diagnosis codes on my claims. Put each item into one of five groups: current and confirmed; resolved; suspected or ruled out; nothing I remember; possibly wrong.
-
-For anything outside the first group, write one sentence asking my doctor to fix its status, for example marked resolved and the year, ruled out and the date, or a side effect and not an allergy.
-
-I want an accurate record, not a shorter one. Anything true stays, because my doctors need it.
+Here are my problem list, my allergy list, and the diagnosis codes from my claims, identifiers removed. Sort each item into: confirmed and current; confirmed but resolved; suspected or ruled out; doesn't match anything I remember; possibly wrong. For each item outside the first group, draft one sentence asking my doctor to correct its status (resolved, with the year; ruled out, with the date; a side effect rather than an allergy). Don't suggest removing anything true: my doctors need it, and I only want the record to be accurate.
 
 ========================================================================
 
@@ -109,24 +78,7 @@ THE DATES WHEN A HOUSEHOLD'S COVERAGE CHANGES
 When: Once, and again when the household changes.
 Paste into: a chatbot that can add calendar events.
 
-Here's my household:
-- Me: born [month, year]
-- Children: born [month, year] and [month, year]
-- Coverage: [employer plan / marketplace plan / Medicaid / Medicare]
-- Plan year starts: [month]
-
-Add to my calendar, with a reminder one month ahead, each date on which our coverage is likely to change:
-- every open-enrollment window
-- the reset date for the deductible and out-of-pocket maximum
-- each child's 26th birthday, plus the 60 days after it for enrolling in other coverage
-- around age 12 or 13, what changes about my access to that child's patient portal
-- at 18, the forms each child should sign
-- my Medicare initial enrollment period, which starts three months before the month I turn 65
-- if I have a health savings account, when to stop contributing before I enroll in Medicare
-- the six months from my Part B start date, during which a supplement plan has to accept me
-- Medicare open enrollment each fall
-
-Then tell me which dates rest on assumptions and which I should confirm.
+I was born in [month, year]. My children were born in [month, year] and [month, year]. My coverage is [employer plan / marketplace plan / Medicaid / Medicare], and the plan year starts in [month]. Put on my calendar, with a reminder a month ahead, every date on which our coverage is expected to change: each open-enrollment window; the day my plan's deductible and out-of-pocket maximum reset; each child's twenty-sixth birthday and the sixty-day window after it to enrol elsewhere; the change in what I can see in each child's patient portal around age twelve or thirteen, and the forms each child should sign at eighteen; my Medicare initial enrollment period, which opens three months before the month I turn sixty-five; if I have a health savings account, a reminder to stop contributions before I enrol in Medicare; the six months after my Medicare Part B starts, when a supplement can't turn me down; and Medicare's open enrollment each fall. Tell me which dates you assumed and which I should confirm.
 
 ========================================================================
 
@@ -135,11 +87,7 @@ STANDING REMINDERS FOR RECORDS, BILLS AND ENROLLMENT
 When: Once.
 Paste into: a chatbot that can add calendar events.
 
-Create these recurring reminders, each with a one-line note on why it matters:
-- January: pull records and results from each portal, then refresh my one-page health file.
-- Monthly: match explanations of benefits against bills. No bill gets paid before its explanation of benefits shows up.
-- Before open enrollment: confirm that next year's network includes my doctors and hospital, price my prescriptions three ways, and find out the financial-assistance policy at the hospital I'd use.
-- My birthday: confirm that the authorization forms and my health-care proxy are up to date, and that my proxy knows where to find them.
+Set these reminders, recurring. Every January: download my records and results from each patient portal, and update my one-page health file. Every month: check the explanations of benefits against any bills, and don't pay a bill until its explanation of benefits has arrived. Before each open enrollment: check that my doctors and hospital are in next year's network, price my prescriptions three ways, and look up the financial-assistance policy of the hospital I'd use. Every year on my birthday: confirm my health-care proxy and authorization forms are current, and that my proxy knows where they are. Each time you set one, add a one-line note saying why it matters.
 
 ========================================================================
 
@@ -148,11 +96,7 @@ THE SCREENINGS AND VACCINES THAT APPLY TO YOUR FAMILY
 When: Once, and yearly.
 Paste into: a chatbot that can add calendar events.
 
-Our household: I'm [age], [sex]. My children are [ages and sexes].
-
-Using the U.S. Preventive Services Task Force's A and B recommendations and the CDC's adult and child immunization schedules, list the screenings and vaccines that fit each person, and how often. Skip C, D and I grades, along with anything that depends on a risk factor I haven't mentioned; put those in a separate list of questions for our doctor.
-
-Add each item to the calendar at its interval, and mark which ones count as no-cost preventive care.
+I'm a [age]-year-old [sex], and my children are [ages and sexes]. From the U.S. Preventive Services Task Force recommendations graded A or B, and the CDC immunization schedules for adults and children, list the screenings and vaccines that apply to each of us, with how often. Leave out anything graded C, D or I, and anything recommended only for risk factors I haven't told you about; list those separately as questions for our doctor. Put each on the calendar at its interval, and note which are covered without cost-sharing as preventive care.
 
 ========================================================================
 
@@ -161,7 +105,7 @@ USE THE YEAR ONCE THE DEDUCTIBLE IS MET
 When: Once, as a standing instruction.
 Paste into: the chatbot's custom instructions or memory.
 
-Keep this as a standing instruction: each month, on the 1st, ask me what I've paid so far this year against my deductible and out-of-pocket maximum, which I can get from my plan's portal. Once I've met the maximum or I'm close, list the covered care I've been postponing, such as a procedure, a scan, physical therapy, a specialist visit, or new glasses if my plan pays for them, and tell me how far ahead each has to be booked so it's done before the [date] reset. Once the reset is three months off, remind me every two weeks.
+Standing instruction: on the first of each month, ask me how much I've paid toward this year's deductible and out-of-pocket maximum, from my plan's portal. When I'm within reach of the maximum, or have met it, list the care I've been putting off that my plan covers (a procedure, a scan, physical therapy, a new pair of glasses if they're covered, a specialist visit) and remind me how far ahead each must be booked, so it happens before the reset on [date]. Starting three months before the reset, remind me every two weeks.
 
 ========================================================================
 
@@ -170,9 +114,7 @@ KEEP A PRIMARY-CARE DOCTOR IN THE LOOP
 When: Once, as a standing instruction.
 Paste into: the chatbot's custom instructions or memory.
 
-Keep these as standing instructions. Until I have a primary-care doctor, nudge me monthly, and help me look for one in my network who's accepting new patients. After that, remind me to go at least yearly, and don't let me reach three years without a visit, because many practices then count you as a new patient.
-
-Whenever I mention a new diagnosis, a specialist, a trip to the ER or urgent care, a hospital stay, a medicine started or stopped, or a symptom lasting over two weeks, tell me to message my primary-care doctor through the portal about it, briefly, asking whether they need to see me. Write the message for me.
+If I don't have a primary-care doctor, remind me every month until I do, and help me find one in my network who is taking new patients. Once I have one, remind me to see them at least once a year, and never let three years pass, since many practices then treat you as a new patient again. Standing instruction: whenever I mention a new diagnosis, a visit to a specialist, an emergency room or urgent-care visit, a hospital stay, a new or stopped medicine, or a symptom that has lasted more than two weeks, remind me to send my primary-care doctor a short portal message saying what happened and asking whether they need to see me, and draft it for me.
 
 ========================================================================
 
@@ -181,21 +123,7 @@ A SIDE-BY-SIDE COMPARISON OF 100 PEOPLE LIKE YOU
 When: Someone has offered you a test, scan or operation.
 Paste into: a chatbot, with your identifying details taken out. Remove anything that identifies you first (name, birth date, account numbers, address), then check the answer against the document.
 
-The offer: [test, scan or operation]. The reason for it: [diagnosis, stage or grade, or why it came up]. About me: [age and sex], [other conditions, earlier results, family history].
-
-Use the best published numbers to compare two groups of 100 people as much like me as the evidence allows. One group gets it and the other doesn't. Make a side-by-side table with the outcomes in rows, over [five or ten] years:
-- helped, and how
-- dead of this condition
-- dead of any cause
-- false alarms
-- treated for something that wouldn't have hurt them
-- each common side effect or complication
-
-If a positive result would lead to another test or treatment, give that next step its own column.
-
-Also show what each path takes: preparation, pain, recovery time, time off work, and my likely cost on a [plan type] plan ([deductible] deductible, [maximum] out-of-pocket maximum).
-
-For each number, give the study or guideline, its year and who was studied, and say how closely those people match me. If no good number exists, say that instead of estimating. Don't recommend a choice. Finish with questions for my doctor that would fill the gaps.
+I've been offered [the test, scan or operation] because of [the diagnosis, its stage or grade, or the reason it was offered]. I'm [age and sex], with [other conditions, earlier results, family history]. Using the best published figures, picture two groups of 100 people who match me as closely as the evidence allows: one group has it and one doesn't. Show them side by side in a table, one row per outcome, over [five or ten] years: how many are helped and how; how many die of this condition; how many die of anything; how many get a false alarm; how many are treated for something that would never have harmed them; and how many have each common complication or side effect. If a positive result leads to a further test or treatment, add a column for that next step. Then add rows for what each path involves: the preparation, the pain, the recovery time, the time off work, and my likely cost under a [plan type] with a [deductible] deductible and a [maximum] out-of-pocket maximum. For every figure, name the study or guideline, its year, and the people it studied, and say how closely they match me. Where there's no good figure, say so rather than estimate. Don't tell me what to choose. End with the questions I should ask my doctor to fill the gaps.
 
 ========================================================================
 
@@ -204,11 +132,4 @@ WHO GAINS FROM A RECOMMENDATION
 When: Someone recommends a drug, device, test or operation.
 Paste into: a chatbot with web search.
 
-Dr. [name] practices [specialty] in [city and state] and has recommended [the drug, device, test or operation], to take place at [the facility, lab or center]. Look through public sources and give me a link for each thing you report. Check four places:
-
-1. Open Payments, the federal database (openpaymentsdata.cms.gov): what this doctor has been paid by [the device's or drug's maker] and its competitors, listed by year and type (research, royalties, consulting, speaking, travel, meals), plus any investment or ownership interest the companies disclosed.
-2. Patents listing this doctor as an inventor.
-3. Ownership: whether the doctor or practice has a stake in [the facility], a lab, an imaging center, a surgery center or a physician-owned hospital. Try the facility's website, state business registries and Medicare's published ownership data.
-4. Conflict-of-interest disclosures in the doctor's articles, talks or trial registrations on this treatment.
-
-"No record found" and "no interest" are different things, so keep them separate. Stick to what the sources say, and don't draw conclusions about the doctor.
+Dr. [name], a [specialty] in [city and state], has recommended [the test, device, drug or operation], to be done at [the facility, lab or centre]. Search public sources and report what you find, with a link for each item. First, the federal Open Payments database (openpaymentsdata.cms.gov): payments to this doctor from the maker of [the device or drug] and from its competitors, by year and type (royalties, consulting, speaking, travel, meals, research), and any ownership or investment interest the companies reported. Second, patents that name this doctor as an inventor. Third, whether this doctor or their practice owns or has a stake in [the facility], a laboratory, an imaging centre, a surgery centre or a physician-owned hospital: check the facility's website, state business-entity registries, and Medicare's published ownership data. Fourth, conflict-of-interest statements in this doctor's articles, talks or trial registrations about this treatment. Keep 'no record found' separate from 'no interest.' Report only what the sources say, and draw no conclusions about the doctor.

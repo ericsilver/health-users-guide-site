@@ -1,18 +1,1 @@
-Here's my household:
-- Me: born [month, year]
-- Children: born [month, year] and [month, year]
-- Coverage: [employer plan / marketplace plan / Medicaid / Medicare]
-- Plan year starts: [month]
-
-Add to my calendar, with a reminder one month ahead, each date on which our coverage is likely to change:
-- every open-enrollment window
-- the reset date for the deductible and out-of-pocket maximum
-- each child's 26th birthday, plus the 60 days after it for enrolling in other coverage
-- around age 12 or 13, what changes about my access to that child's patient portal
-- at 18, the forms each child should sign
-- my Medicare initial enrollment period, which starts three months before the month I turn 65
-- if I have a health savings account, when to stop contributing before I enroll in Medicare
-- the six months from my Part B start date, during which a supplement plan has to accept me
-- Medicare open enrollment each fall
-
-Then tell me which dates rest on assumptions and which I should confirm.
+I was born in [month, year]. My children were born in [month, year] and [month, year]. My coverage is [employer plan / marketplace plan / Medicaid / Medicare], and the plan year starts in [month]. Put on my calendar, with a reminder a month ahead, every date on which our coverage is expected to change: each open-enrollment window; the day my plan's deductible and out-of-pocket maximum reset; each child's twenty-sixth birthday and the sixty-day window after it to enrol elsewhere; the change in what I can see in each child's patient portal around age twelve or thirteen, and the forms each child should sign at eighteen; my Medicare initial enrollment period, which opens three months before the month I turn sixty-five; if I have a health savings account, a reminder to stop contributions before I enrol in Medicare; the six months after my Medicare Part B starts, when a supplement can't turn me down; and Medicare's open enrollment each fall. Tell me which dates you assumed and which I should confirm.
